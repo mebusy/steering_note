@@ -221,7 +221,7 @@ with `Arrive`, we can make the vehicle do something behavior like *staying withi
 
 <details>
 <summary>
-staying within valls: boundaries()
+staying within walls: boundaries()
 </summary>
 
 ```java
