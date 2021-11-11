@@ -188,7 +188,7 @@ class Vehicle {
 
 <details>
 <summary>
-Seek()
+arrive()
 </summary>
 
 ```java
